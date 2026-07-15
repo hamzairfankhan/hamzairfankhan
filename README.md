@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hamza Khan
 
-<!--
-**hamzairfankhan/hamzairfankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI undergraduate building NLP and deep-learning systems in PyTorch.
 
-Here are some ideas to get you started:
+My current work focuses on low-resource language processing, Transformers, retrieval, and model evaluation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- **Roman Urdu ABSA** â€” zero-shot cross-lingual sentiment evaluation
+- **Transformer RAG from Scratch** â€” encoder, retrieval, and causal decoder
+- **Urdu Neural NLP** â€” embeddings, BiLSTM-CRF tagging, and classification
+
+**Tools:** Python, PyTorch, Transformers, scikit-learn, pandas, Git
+
+> My previous GitHub profile was taken down in late 2025. This is my current account, and I am rebuilding my public project history here.
+
+[LinkedIn](https://www.linkedin.com/in/hamza-khan-ai/) Â· [Email](mailto:hamzairfankhan5@gmail.com)
+
