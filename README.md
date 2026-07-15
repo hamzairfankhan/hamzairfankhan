@@ -6,9 +6,9 @@ My current work focuses on low-resource language processing, Transformers, retri
 
 ## Selected work
 
-- **Roman Urdu ABSA** â€” zero-shot cross-lingual sentiment evaluation
-- **Transformer RAG from Scratch** â€” encoder, retrieval, and causal decoder
-- **Urdu Neural NLP** â€” embeddings, BiLSTM-CRF tagging, and classification
+- [**Roman Urdu ABSA**](https://github.com/hamzairfankhan/roman-urdu-absa) â€” zero-shot cross-lingual sentiment evaluation
+- [**Transformer RAG from Scratch**](https://github.com/hamzairfankhan/i22-2149-NLP-Assignment3) â€” encoder, retrieval, and causal decoder
+- [**Urdu Neural NLP**](https://github.com/hamzairfankhan/urdu-neural-nlp) â€” embeddings, BiLSTM-CRF tagging, and classification
 
 **Tools:** Python, PyTorch, Transformers, scikit-learn, pandas, Git
 
