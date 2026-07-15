@@ -14,5 +14,5 @@ My current work focuses on low-resource language processing, Transformers, retri
 
 > My previous GitHub profile was taken down in late 2025. This is my current account, and I am rebuilding my public project history here.
 
-[LinkedIn](https://www.linkedin.com/in/hamza-khan-ai/) Â· [Email](mailto:hamzairfankhan5@gmail.com)
+[Email](mailto:hamzairfankhan5@gmail.com)
 
